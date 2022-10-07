@@ -1,0 +1,19 @@
+body {
+  background-color: #f1f6f9;
+  font-family: "Sarabun", sans-serif;
+  color: black;
+  height: 100%;
+  cursor: pointer;
+}
+
+.bg {
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow-x: scroll;
+}
+
+.modal-title {
+  color: #14274e;
+}
