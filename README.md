@@ -1,9 +1,5 @@
 # steenbokform
 
-Deployed: http://murmuring-waters-27470.herokuapp.com/
-
-Deployed app does not attach images in email
-
 ## Stack
 
 Express server
