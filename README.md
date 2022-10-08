@@ -32,7 +32,9 @@ Frontend > EJS, Bootstrap
 
 2. npm install for node modules
 
-3. set up .env file with email server details
+3. create "uploads" folder
+
+4. set up .env file with email server details
 
 EMAIL="your gmail account"
 EMAIL_PASSWORD="your account password"
