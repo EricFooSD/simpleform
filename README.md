@@ -1,5 +1,9 @@
 # steenbokform
 
+Deployed site: https://morning-inlet-60693.herokuapp.com/
+
+Deployed site will not attach images to email.
+
 ## Stack
 
 Express server
